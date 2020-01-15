@@ -16,7 +16,7 @@ def predict(img):
 
 
 # User Interface
-st.title("Planets Recognizer AI")
+st.title("Planet Recognizer AI")
 st.markdown(">Hi there, this is a **machine-learning powered app** which can tell you which of the 8 planets your image has. Give it a try. It is fun!")
 st.markdown("Built by [Abhinand](https://www.linkedin.com/in/abhinand-05/)")
 st.write("")
