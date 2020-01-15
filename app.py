@@ -8,7 +8,7 @@ import PIL
 # Function to Predict Planets
 def predict(img):
     # Initialize Directories
-    model_dir = Path("../models/")
+    model_dir = Path("./models/")
     # Load the CNN Model
     learner = load_learner(model_dir)
     # Return the Predictions
