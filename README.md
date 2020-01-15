@@ -3,7 +3,9 @@ Hi there, this is a **machine-learning powered app** which can tell you which of
 
 Here is the link to the app 
 
-[Open App](https://planet-recognizer-app.herokuapp.com/)
+[Open App](https://planet-recognizer.herokuapp.com/)
+
+> **NOTE: The image you upload should contain a planet.**
 
 You can fetch the trained model from the models directory.
 
