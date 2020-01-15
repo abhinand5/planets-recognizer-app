@@ -48,8 +48,6 @@ jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
 jupyterthemes==0.20.0
-Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
 lesscpy==0.13.0
 Markdown==3.1.1
@@ -110,9 +108,6 @@ soupsieve==1.9.5
 spacy==2.2.3
 srsly==1.0.1
 streamlit==0.52.2
-tensorboard==2.0.2
-tensorflow==2.0.0
-tensorflow-estimator==2.0.1
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
