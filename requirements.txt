@@ -1,4 +1,6 @@
-fastai==1.0.60
-numpy==1.18.0
-pathtools==0.1.2
-streamlit==0.52.2
+https://download.pytorch.org/whl/cpu/torch-1.1.0-cp37-cp37m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.3.0-cp37-cp37m-linux_x86_64.whl
+fastai
+numpy
+pathtools
+streamlit
