@@ -20,6 +20,10 @@ st.title("Planet Recognizer AI")
 st.markdown(">Hi there, this is a **machine-learning powered app** which can tell you which of the 8 planets your image has. Give it a try. It is fun!")
 st.markdown("Built by [Abhinand](https://www.linkedin.com/in/abhinand-05/)")
 st.write("")
+st.markdown("**Note:** This ***only works with `.jpg` files.*** It can detect only one planet.")
+st.markdown("Your uploaded image should image should contain atleast one planet.")
+st.markdown("*This app is in it's early stages!* Will be updated regularly.")
+st.write("")
 uploaded_file = st.file_uploader("Choose an image...", type="jpg")
 if uploaded_file is not None:
     image = open_image(uploaded_file)
@@ -29,3 +33,6 @@ if uploaded_file is not None:
     st.markdown("**AI**: I think this is...")
     label = predict(image)
     st.success(label)
+
+st.markdown("")
+st.markdown("[GitHub Repo](https://github.com/abhinand5/planets-recognizer-app)")
