@@ -109,7 +109,7 @@ six==1.13.0
 soupsieve==1.9.5
 spacy==2.2.3
 srsly==1.0.1
-streamlit==0.52.2
+streamlit==0.53.0
 tensorboard==2.0.2
 tensorflow==2.0.0
 tensorflow-estimator==2.0.1
