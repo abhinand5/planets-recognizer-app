@@ -4,4 +4,4 @@ fastai
 numpy
 pathtools
 streamlit
-Pillow==6.1.0
+Pillow==9.0.0
